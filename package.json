@@ -1,0 +1,23 @@
+{
+  "name": "evangeline",
+  "version": "1.0.0",
+  "description": "EVE Online trading assistant",
+  "main": "evangeline.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ultraflynn/evangeline.git"
+  },
+  "keywords": [
+    "eve online"
+  ],
+  "author": "Matt Biggin <matthew.biggin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-typescript": "^0.8.0",
+    "matchdep": "^1.0.0"
+  }
+}
