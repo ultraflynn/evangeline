@@ -1,23 +1,38 @@
 {
   "name": "evangeline",
-  "version": "1.0.0",
   "description": "EVE Online trading assistant",
-  "main": "evangeline.js",
-  "scripts": {
-    "test": "grunt test"
+  "version": "0.1.0",
+  "homepage": "https://github.com/ultraflynn/evangeline",
+  "author": {
+    "name": "mbiggin",
+    "email": "matthew.biggin@gmail.com",
+    "url": "http://mattbiggin.co.uk"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ultraflynn/evangeline.git"
+    "url": "git://github.com/ultraflynn/evangeline.git"
   },
-  "keywords": [
-    "eve online"
+  "bugs": {
+    "url": "https://github.com/ultraflynn/evangeline/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ultraflynn/evangeline/blob/master/LICENSE-MIT"
+    }
   ],
-  "author": "Matt Biggin <matthew.biggin@gmail.com>",
-  "license": "MIT",
+  "main": "lib/evangeline",
+  "engines": {
+    "node": ">= v5.0.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-typescript": "^0.8.0",
-    "matchdep": "^1.0.0"
-  }
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": []
 }
