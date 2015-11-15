@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ultraflynn/evangeline.svg?branch=master)](https://travis-ci.org/ultraflynn/evangeline)
+
 EVE Online trading assistant
 
 Evangeline is designed to help you quickly identify profitable hauling options.
