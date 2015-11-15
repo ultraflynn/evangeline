@@ -1,6 +1,6 @@
-# evangeline [![Build Status](https://secure.travis-ci.org/ultraflynn/evangeline.png?branch=master)](http://travis-ci.org/ultraflynn/evangeline)
-
 EVE Online trading assistant
+
+Evangeline is designed to help you quickly identify profitable hauling options.
 
 ## Getting Started
 Install the module with: `npm install evangeline`
@@ -23,5 +23,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2015 mbiggin  
+Copyright (c) 2015 Matt Biggin <matthew.biggin@gmail.com>  
 Licensed under the MIT license.
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
