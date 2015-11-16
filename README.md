@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ultraflynn/evangeline.svg?branch=master)](https://travis-ci.org/ultraflynn/evangeline)
+[![Build Status](https://travis-ci.org/ultraflynn/evangeline.svg?branch=master)](https://travis-ci.org/ultraflynn/evangeline) [![TypeScript definitions on DefinitelyTyped](//definitelytyped.org/badges/standard.svg)](http://definitelytyped.org) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 EVE Online trading assistant
 
@@ -27,5 +27,3 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2015 Matt Biggin <matthew.biggin@gmail.com>  
 Licensed under the MIT license.
-
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
