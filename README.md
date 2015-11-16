@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ultraflynn/evangeline.svg?branch=master)](https://travis-ci.org/ultraflynn/evangeline) [![TypeScript definitions on DefinitelyTyped](//definitelytyped.org/badges/standard.svg)](http://definitelytyped.org) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Build Status](https://travis-ci.org/ultraflynn/evangeline.svg?branch=master)](https://travis-ci.org/ultraflynn/evangeline) [![TypeScript definitions on DefinitelyTyped](http://definitelytyped.org/badges/standard.svg)](http://definitelytyped.org) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 EVE Online trading assistant
 
